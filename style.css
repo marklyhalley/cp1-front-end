@@ -106,20 +106,16 @@ h2{
 
 .intitle {
     font-family: Limelight;
-    font-size: 20px;
+    font-size: 26px;
 }
 
-#intitle2 {
-    color: white;
-}
+
 
 .price {
-    font-size: 18px;
+    font-size: 26px;
 }
 
-#price2 {
-    color: white;
-}
+
 
 .contato {
     margin: 2.5%;
