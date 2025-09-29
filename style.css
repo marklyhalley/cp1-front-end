@@ -11,7 +11,7 @@ body{
     background-color: #EFE9F4;
 }
 
-.menu {
+header {
     background-color:#064661;
     padding: 20px 40px;
     display: flex;
@@ -36,7 +36,7 @@ p{
     align-items: center;
 }
 
-#menu__titulo {
+#headertitulo {
     color: white;
 }
 
@@ -121,7 +121,7 @@ h2{
     margin: 2.5%;
 }
 
-.footer {
+footer {
     background-color:#064661;
     color: white;
     padding: 20px 40px;
